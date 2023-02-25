@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Docker,Kubernate**
 
-- 💬 Ask me about **.Net,Angular,JavaScript**
+- 💬 Ask me about **.Net,Angular,JavaScript,Full Stack Development**
 
 - 📫 How to reach me **satyaprakashgupta169@gmail.com**
 
