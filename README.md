@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyam-src" alt="satyam-src" /></a> </p>
 
-- 🔭 I’m currently working on **Java and Dockerize .Net Core Microservices With Angular**
+- 🔭 I’m currently working on **.Net Core and Dockerize Golang Microservices With Angular**
 
-- 🌱 I’m currently learning **.Net Core, Springboot**
+- 🌱 I’m currently learning **.Net Core, Cloud **
 
 - 👯 I’m looking to collaborate on **Java , .Net and Angular Project**
 
